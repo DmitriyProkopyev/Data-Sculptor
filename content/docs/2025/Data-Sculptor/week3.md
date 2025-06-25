@@ -1,7 +1,5 @@
 ## Implemented MVP features
 
-_Describe all implemented features (with relevant PRs/Issues for implemented features) in your MVP and functional user journey(s)_
-
 - After further research, tools for real-time static analysis in JupyterHub environments have been updated and reconfigured
 	- Previously used tools: ruff, pycodestyle, pyflakes
 	- Currently used tools: ruff, Vulture, MyPy, Bandit
