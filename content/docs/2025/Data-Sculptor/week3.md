@@ -39,9 +39,9 @@ Currently we are using [Qwen/Qwen3-30B-A3B](https://huggingface.co/Qwen/Qwen3-30
 Our team conducts an internal demo several times every week following this procedure:
 1. Whenever an increment is finalized by the developers, it is moved into "Deploying to Dev" stage of the [Product Backlog](https://strategic-control.kaiten.ru/space/606257/boards)
 2. Then `dev` deployment is prepared by developers and validated by the team member responsible for the current increment
-   ![[Pasted image 20250625174733.png]]
+   ![Image](https://ibb.co/hx3XSjjW)
 3. Afterwards, the increment is moved to "Deploying to Beta" stage of the [Product Backlog](https://strategic-control.kaiten.ru/space/606257/boards), where completion of another checklist is required. Two of its stages include requesting approval for further deployment, which is given after the internal demo if all the acceptance criteria and quality attributes are met as defined
-   ![[Pasted image 20250625202455.png]]
+   ![Image](https://i.ibb.co/wFB1qkHr)
 4. After receiving approval from the team lead for beta deployment and updating `uat` deployment, the increment is considered done
 
 > Internal demo mostly consists of validating the current `beta` deployment against the acceptance criteria and quality attributes of the increment.
